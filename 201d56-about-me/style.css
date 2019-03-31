@@ -1,0 +1,50 @@
+body {
+    background-color:lightgoldenrodyellow;
+    background-image: url("ny.jpg");
+    background-size: 100%;
+
+  }
+
+h2 {
+    font-size: 3em;
+    color: palevioletred;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+div.background {
+    background: grey;
+    border: 2px solid black;
+  }
+  
+  div.transbox {
+    margin: 30px;
+    background-color: black;
+    border: 2px solid pink;
+    opacity: 0.6;
+    border-radius: 20px;
+  }
+  
+  div.transbox p {
+    margin: 5%;
+    font-weight: bold;
+    color: pink;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 1.5em;
+  }
+
+div ul,ol {
+    font-size: 1.5em;
+    color: pink;
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 20%;
+    margin: auto;
+}
+
+.roundImage {
+    border-radius: 20px;
+    border: 3px solid pink;
+}
+
